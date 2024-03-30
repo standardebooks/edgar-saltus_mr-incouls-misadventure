@@ -1,5 +1,6 @@
 @charset "utf-8";
 @namespace epub "http://www.idpf.org/2007/ops";
+@namespace xml "http://www.w3.org/XML/1998/namespace";
 
 /* Poetry formatting */
 [epub|type~="z3998:verse"] p,
@@ -20,9 +21,19 @@
 	display: none;
 }
 
+p span.i1{
+	padding-left: 2em;
+	text-indent: -1em;
+}
+
 p span.i15{
 	padding-left: 16em;
 	text-indent: -1em;
+}
+
+/* Italicize foreign language poems */
+blockquote[xml|lang]{
+	font-style: italic;
 }
 
 /* All epigraphs */
