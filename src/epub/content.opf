@@ -43,7 +43,7 @@
 		<meta property="authority" refines="#subject-4">LCSH</meta>
 		<meta property="term" refines="#subject-4">sh2009126689</meta>
 		<meta property="schema:genre">Fiction</meta>
-		<dc:abstract>The honeymoon of a wealthy widower and a young woman takes an unsettling turn with the sudden reappearance of a former lover.</dc:abstract>
+		<meta property="schema:abstract">The honeymoon of a wealthy widower and a young woman takes an unsettling turn with the sudden reappearance of a former lover.</meta>
 		<dc:description>
 			&lt;p&gt;After the sudden, untimely death of his wife, the wealthy Mr. Incoul proposes to Miss Maida Barhyte: “Marry me, and you will never want for anything again.” Young Maida, under pressure from her mother and facing a future as a housemaid, reluctantly agrees, on the condition that they live as though unmarried—as brother and sister would—until she feels they’ve each come into their own.&lt;/p&gt;
 			&lt;p&gt;They wed on these terms and subsequently embark on a honeymoon across Europe. But just as Maida begins to adjust to this unconventional arrangement, the unexpected occurs: at a bullfight in Spain, a former lover resurfaces, vying for her attention once more. Mr. Incoul remains blissfully unaware of this development. Or does he?&lt;/p&gt;
